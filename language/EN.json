@@ -69,9 +69,9 @@
             "ALREADY_NOT_ADMIN": "```How can someone who is not already an admin demote as an admin?```",
             "DEMOTED": "```, was demoted as a member```",
             "MUTE_DESC": "To mute group chat. Only admin can send message.",
-            "MUTED": "```🔇 The group chat was muted!```",
+            "MUTED": "```muthu🧿The group chat was muted!```",
             "UNMUTE_DESC": "Remove group chat mute. Anyone can send a message.",
-            "UNMUTED": "```🔊 Group chat unmuted!```",
+            "UNMUTED": "```muthu🔮Group chat unmuted!```",
             "INVITE_DESC": "Provides group invite link.",
             "INVITE": "```Invitation link: ```",
             "ADMINDESC": "To get the admin command list",
@@ -104,15 +104,15 @@
             "FBDESC":"Download Facebook videos.",
             "YTDESC": "Download songs or videos from YouTube.",
             "NEED_VIDEO": "*Please write a YouTube link!*\n*Example:* .yt https://www.youtube.com/watch?v=f0bbDFRYD_A",
-            "yt_title": "📄 *Title* : ",
-            "yt_chan": "\n🎬 *Author* : ",
-            "yt_link": "\n🌐 *Youtube link* : ",
-            "yt_views": "\n👁️ *Views* : ",
-            "DOWNLOADING_SONG":"\n```🔄 Downloading your song...```\n",
-            "UPLOADING_SONG":"\n```⬆️ Uploading your song...```\n",
-            "DOWNLOADING_VIDEO": "\n```🔄 Downloading your video...```\n",
-            "UPLOADING_VIDEO":"\n```⬆️ Uploading your video...```\n",
-            "NO_RESULT": "*🌐 Please enter a valid link!* \n\nExample : _.fb https://www.facebook.com/AmdaNiwasaOfficial/videos/837496850532776/_",
+            "yt_title": "🧿 *Title* : ",
+            "yt_chan": "\n🔮 *Author* : ",
+            "yt_link": "\n♌ *Youtube link* : ",
+            "yt_views": "\n♐ *Views* : ",
+            "DOWNLOADING_SONG":"\n```muthu🥀 Downloading your song...```\n",
+            "UPLOADING_SONG":"\n```muthu🥀 Uploading your song...```\n",
+            "DOWNLOADING_VIDEO": "\n```muthu🥀 Downloading your video...```\n",
+            "UPLOADING_VIDEO":"\n```muthu🥀 Uploading your video...```\n",
+            "NO_RESULT": "*🌐 Please enter a valid link!* \n\nExample : _.fb ok",
             "LIMIT": "*Maximum upload size exceeded!*\n\n_Contact bot owner to increase limit: "
         },
         "effects":{
@@ -358,10 +358,10 @@
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
         },
         "pinterest": {
-            "PIN_DESC": "Download 5 images from pinterest.",
+            "PIN_DESC": "Download images from pinterest.",
             "NEED_WORDS": "```Need words to search!```",
-            "DOWNLOAD": "🔄️ Downloading images...",
-            "UPLOAD": "⬆️ Uploading images...",
+            "DOWNLOAD": "🔮 Downloading images...",
+            "UPLOAD": "🧿 Uploading images...",
             "ERROR": "```Sorry, I could not find images. 😖```"
         },
         "playstore": {
@@ -370,16 +370,17 @@
             "NO_APK": "Please enter a valid playstore app link.\nYou can search playstore by *.getpack* command.",
             "APK_DW": "\n🔄 Downloading your APK...\n",
             "APK_UP": "\n🔄 Uploading your APK...\n",
-            "APK_D": "*▸ 📚APK Details📚 ◂*\n\n",
-            "APK_N": "💻 APK Name : ",
-            "APK_DEV": "\n👨🏻‍💻 Developer : ",
+            "APK_D": "*▸ ♌APK Details♌ ◂*\n\n",
+            "APK_N": "🎟️APK Name : ",
+            "APK_DEV": "\n Developer : ",
+
             "APK_V": "\n📟 Version : ",
             "APK_SUM": "\n📃 Summary : ",
             "LIMIT": "*Maximum upload size exceeded!*\n\n_Contact bot owner to increase limit: "
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 💃🏻```",
+            "KICKME": "```Bye bye! I am going 🌹```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -412,7 +413,7 @@
             "ID_WORD": "║ _Report ID :_ ",
             "USER": "║ _User :_ ",
             "REASON": "║ _Reason :_ ",
-            "END": "╚═➤ *✘👸🏻♥️𝚀𝚞𝚎𝚎𝚗 𝙰𝚖𝚍𝚒 𝙿𝚞𝚋𝚕𝚒𝚌♥️👸🏻✘* ═➤",
+            "END": "╚═➤ *✘👸🏻♥️muthu♥️👸🏻✘* ═➤",
             "REPLY": "Please reply to a message",
             "BR": "║"
         },
@@ -429,7 +430,7 @@
             "MODDROID": "_📡 Based site : https://moddroid.com/_",
             "NEED_WORDS": "```Need words to search!```",
             "GET_MODD": "\n```🔎 Please wait..```\n",
-            "NOT_FOUND": "*I could not find this😔*",
+            "NOT_FOUND": "*I could not find this😶*",
             "SPO_USAGE": "Search songs from spotify.",
             "SPOTIFY": "_📡 Based site : https://open.spotify.com/_",
             "APK_DESC": "Search apps from playstore.",
@@ -459,16 +460,16 @@
         "sticker": {
             "STICKER_DESC": "Make stickers to your images. Reply to an image.",
             "NEED_REPLY": "*Please reply an image!*",
-            "DOWNLOADING": "\n```🔄 Downloading media and making sticker...```\n",
+            "DOWNLOADING": "\n```muthu🧿 Downloading media and making sticker...```\n",
             "ANI_STICK": "Converts animated stickers to video.",
             "ANI_REPLY": "*Please reply an animated sticker*",
-            "ANIMATE": "\n```🔄 Converting Animated Sticker To Video..```\n"
+            "ANIMATE": "\n```muthu 🔮Converting Animated Sticker To Video..```\n"
         },
         "system_stats": {
             "ALIVE_DESC": "Check bot online or not",
             "SYSD_DESC": "System properties.",
             "BOT_V": "Check version of bot.",
-            "version": "3.6.2v - Public Edition",
+            "version": "4.0.0v - beta Edition",
             "RULE_DESC": "Shows setted rules by Group Admins",
             "rules": "*There is no rules setted by Admins.*"
         },
@@ -504,14 +505,14 @@
         },
         "unlimiteddata":{
             "ehi_desc": "Make your data packages to unlimited data packages.\n*(Only for Sri Lankan Users)*",
-            "ehi_help": "╔═══════❪💃🏻♥️❫\n\n▷ *❖ Queen Amdi Unlimited Data ❖* ◁\n\n```[EHI Method]```\n\n╚═════≪ •❈• ≫═════",
+            "ehi_help": "╔═══════❪🧿❫\n\n▷ *❖ Muthuu unlimited Data ❖* ◁\n\n```[EHI Method]```\n\n╚═════≪ •❈• ≫═════",
             "ehi_info": "*✨ What is EHI file?*\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nAn EHI file is a config file used by Evozi HTTP Injector, an Android app that allows users to browse the Internet via a VPN.\nThese files contain settings to configure HTTP Injector, including server login credentials and security/locking information.\nHTTP Injector allows users to spoof their location and mask their identity while browsing the Internet, using an SSH connection and proxy servers.\nIt also allows users to access websites that have been blocked by their ISP's(Internet Service Provider Or your SIM company) firewall.\nAs such, the app and the EHI files associated with it are popular in countries that restrict or monitor their populace's Internet access.\n\n*In Sri Lanka,* we have unlimited packages from so many ISP.\n\n(Ex: Dialog Rs.97 Unlimited Facebook, WhatsApp & YouTube)\n\nSo, we can use this oppurtunity to crack their block and visit other sites blocker and brwose unlimited internet by using EHI.\n\n```[Author : Black Amda]```",
             "ehi_how": "*How to install EHI?*\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n_Note : You need to activate unilimited data package. And DON'T TRY THIS IF YOU ALREADY HAVE DATA REMAINING._\n\n1️⃣ Download and install HTTP Injector. (Type *.ehi* click download files button to get apk)\n\n2️⃣ Download one page of EHI files from bot.\n🔧 Type *.ehi* and click Download files and select All EHI files to get EHI files.\n\n3️⃣ Select your suitable EHI for your package.\n```Example :``` If you have activated facebook only unlimited package from SIM. You have to choose EHI Files with name *Facebook*. Then, you can browse other sites from your facebook only unlimited data package.\n\n4️⃣ Now, click on your selected EHI file and open from HTTP Injector.\n\n5️⃣ Click *Start* button to connect EHI config.\n\nNow you can ENJOY UNLIMITED DATA.\n\nIf your connection slow, change EHI files from another server (US 01, US 02, SG).\n\nThese EHI files only valid for *30days* from import date. After that you have to get another set of EHI and renew. And also you can change server from Injector app settings.\n\n```Queen Amdi Team💃🏻♥️```"
         },
         "unvoice": {
             "UV_DESC": "Convert mp3 into a WA voice message",
             "UV_REPLY": "*Please reply to a mp3!*",
-            "UV_PROC": "\n```🔄 Recording the audio..```\n"
+            "UV_PROC": "\n```✒️Recording the audio..```\n"
         },
         "updater": {
             "UPDATER_DESC": "Check for updates.",
