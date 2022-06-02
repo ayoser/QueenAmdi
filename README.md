@@ -31,10 +31,10 @@
 ----
 
 <p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+  <a href="httsp://github.com/ayoser/QueenAmdi">
     <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
   </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
+  <a href="https://github.com/ayoser/QueenAmdi">
     <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
     
   </a>
