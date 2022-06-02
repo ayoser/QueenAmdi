@@ -1,16 +1,16 @@
 {
-    "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "prince muthu",
+    "description": "prince muthu is a chat bot for WhatsApp. 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "muthu",
         "WhatsApp",
         "User Bot",
         "Chat bot",
         "Button bot",
-        "Black Amda"
+        "bot"
     ],
-    "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "website": "no",
+    "logo": "no",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
