@@ -1,7 +1,7 @@
 {
     "name": "muthu",
     "version": "4.0.0v",
-    "description": "Queen Amdi Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "description": "muthu Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
     "main": "./QueenAmdi/assets/module.js",
     "scripts": {
       "start": "supervisor -s assets/module.js"
@@ -14,7 +14,7 @@
       "whatsapp"
     ],
     "author": "ayodya",
-    "developer": "AN Tech",
+    "developer": "or tech",
     "license": "GPL-3.0-or-later",
     "bugs": {
       "url": "https://github.com/ayoser/QueenAmdi/issues"
